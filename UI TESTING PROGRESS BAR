@@ -1,0 +1,5 @@
+This script automates testing of the progress bar on the "UITesting Playground" website. 
+It navigates to the progress bar page, clicks the "Start" button, and continuously checks the progress bar value until it reaches 75%. 
+Once the progress is sufficient, it clicks the "Stop" button to stop the progress. 
+The script is written using Playwright's sync API for browser interaction.
+
